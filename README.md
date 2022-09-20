@@ -1,5 +1,7 @@
 # Unified Structure Variable Selection (USVS)
 This repository provides python coding implementing Unified Structure Variable Selection (USVS) for respecting various selection rules
+The optimization solver is Gurobi https://www.gurobi.com 
+The method is inspired by the BEST SUBSET SELECTION VIA A MODERN OPTIMIZATION LENS by D. Bertsimas, A. King, and R. Mazumder (Annals of Statistics, 2016, Vol., 44, N0. 2, 813-852)
 
 AIM:
 1. methods performance comparison
