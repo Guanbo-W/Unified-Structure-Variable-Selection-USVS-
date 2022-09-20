@@ -1,4 +1,4 @@
-# Unified-Structure-Variable-Selection-USVS-
+# Unified Structure Variable Selection (USVS)
 This repository provides python coding implementing Unified Structure Variable Selection (USVS) for respecting various selection rules
 
 AIM:
